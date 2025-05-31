@@ -20,14 +20,14 @@ export default function Sc1() {
           <OverlayText>
             <MainHeading>Safe and Reliable Delivery & Logistics Solutions</MainHeading>
             <SubHeading>
-              Providing flexible, improved service levels, and accelerated pet delivery with utmost care!
+              Providing flexible, improved service levels, and accelerated delivery with utmost care!
             </SubHeading>
           </OverlayText>
         </ImageCol>
         <TextCol md="6" className="desktop-text">
           <MainHeading>Safe and Reliable Delivery & Logistics Solutions</MainHeading>
           <SubHeading>
-            Providing flexible, improved service levels, and accelerated pet delivery with utmost care!
+            Providing flexible, improved service levels, and accelerated delivery with utmost care!
           </SubHeading>
         </TextCol>
       </HeroSection>
@@ -35,7 +35,7 @@ export default function Sc1() {
         <Col md="3" sm="6">
           <Card>
             <img src={co1} className="icon" alt="Efficient Delivery" />
-            <h3>Efficient Pet Delivery</h3>
+            <h3>Efficient Reliable Delivery</h3>
             <p>
               We enhance our logistics operations to ensure safe and efficient delivery of cargo, relieving you of the worries associated with freight forwarding.
             </p>
@@ -55,9 +55,9 @@ export default function Sc1() {
         <Col md="3" sm="6">
           <Card>
             <img src={co3} className="icon" alt="Security For Pets" />
-            <h3>Secure Pet Handling</h3>
+            <h3>Secure Cargo Handling</h3>
             <p>
-              Our facilities and procedures meet high security requirements, ensuring your pets are handled with the utmost care and are transported safely.
+              Our facilities and procedures meet high security requirements, ensuring your goods are handled with the utmost care and are transported safely.
             </p>
             <a href="#" className="learn-more">Learn More</a>
           </Card>
